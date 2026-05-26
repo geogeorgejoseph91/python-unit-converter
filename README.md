@@ -31,7 +31,9 @@ This project converts values between units across **9 categories**:
 ## 🛠️ Tech Stack
 
 🐍 Python
+
 🎈 Streamlit
+
 📊 Dictionary-based conversion engine
 
 ## 📁 Project Structure
