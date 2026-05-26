@@ -87,6 +87,6 @@ K  → °C :  C = K − 273.15
 
 Built as a course project.
 
-## demo url
+## demo site url
 
 https://unit-converter-by-geo.streamlit.app/
