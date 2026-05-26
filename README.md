@@ -6,17 +6,33 @@ A multi-category unit converter built with **Python** and **Streamlit**.
 
 This project converts values between units across **9 categories**:
 
-| Category       | Units Supported                                          |
-| -------------- | -------------------------------------------------------- |
-| 📏 Length      | meter, km, cm, mm, mile, yard, foot, inch, nautical mile |
-| ⚖️ Weight      | kg, g, mg, ton, pound, ounce, stone                      |
-| 🌡️ Temperature | Celsius, Fahrenheit, Kelvin                              |
-| 🧪 Volume      | liter, mL, m³, gallon, quart, pint, cup, fl oz           |
-| ⏱️ Time        | second, ms, minute, hour, day, week, month, year         |
-| 🚀 Speed       | m/s, km/h, mph, knot, ft/s                               |
-| 🟦 Area        | m², km², cm², hectare, acre, ft², in², mi²               |
-| ⚡ Energy      | joule, kJ, calorie, kcal, Wh, kWh, BTU                   |
-| 💾 Data        | byte, KB, MB, GB, TB, bit, KiB, MiB, GiB                 |
+| Category            | Example Units               |
+| ------------------- | --------------------------- |
+| 📏 Length           | meter, km, cm, inch, mile   |
+| ⚖️ Weight           | kg, g, pound, ounce, ton    |
+| 🌡️ Temperature      | Celsius, Fahrenheit, Kelvin |
+| 🧪 Volume           | liter, gallon, mL, cup      |
+| ⏱️ Time             | second, minute, hour, day   |
+| 🚀 Speed            | m/s, km/h, mph, knot        |
+| 🟦 Area             | m², km², acre, hectare      |
+| ⚡ Energy           | joule, calorie, kWh, BTU    |
+| 💾 Data             | byte, KB, MB, GB, TB        |
+| 🧱 Pressure         | pascal, bar, psi, atm       |
+| 🔋 Power            | watt, kW, horsepower        |
+| 🧲 Force            | newton, dyne, pound-force   |
+| 📐 Angle            | degree, radian, gradian     |
+| 📡 Frequency        | hertz, kHz, MHz, GHz        |
+| ⚡ Electric Current | ampere, milliampere         |
+| 🔌 Voltage          | volt, millivolt, kilovolt   |
+| 🛡️ Resistance       | ohm, kilo-ohm, mega-ohm     |
+| 🌊 Density          | kg/m³, g/cm³                |
+| 🏎️ Acceleration     | m/s², ft/s²                 |
+
+## 🛠️ Tech Stack
+
+🐍 Python
+🎈 Streamlit
+📊 Dictionary-based conversion engine
 
 ## 📁 Project Structure
 
